@@ -1,3 +1,3 @@
 # Tabla_de_Frecuencias
 
-En estas sección se resolvió el problema 8
+En este repositorio se le dio solucion al problema 8
